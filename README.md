@@ -278,7 +278,7 @@ Firebase • Vercel • Docker
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deepak-kumar-kashyap&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Deepak-kumar-kashyap&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="48%" src="https://streak-stats.demolab.com?user=Deepak-kumar-kashyap&theme=tokyonight&hide_border=true"/>
 
