@@ -75,11 +75,11 @@ Full Stack Developer • Building AI-Powered Web Applications
 
 
 
-<a href="YOUR_REPOLENSE_REPO_LINK">
+<a href="https://github.com/Deepak-kumar-kashyap/RepoLense">
   <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_REPOLENSE_LIVE_LINK">
+<a href="https://repo-lense.vercel.app/">
   <img src="https://img.shields.io/badge/Live_Demo-1f6feb?style=for-the-badge"/>
 </a>
 
@@ -117,11 +117,11 @@ Full Stack Developer • Building AI-Powered Web Applications
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
-<a href="YOUR_STAYBYTE_REPO_LINK">
+<a href="https://github.com/Deepak-kumar-kashyap/StayByte">
   <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_STAYBYTE_LIVE_LINK">
+<a href="https://github.com/Deepak-kumar-kashyap/StayByte">
   <img src="https://img.shields.io/badge/Live_Demo-1f6feb?style=for-the-badge"/>
 </a>
 
@@ -162,7 +162,7 @@ Full Stack Developer • Building AI-Powered Web Applications
 ![File Handling](https://img.shields.io/badge/File_Handling-FF9800?style=flat-square)
 
 
-<a href="YOUR_BANKING_REPO_LINK">
+<a href="https://github.com/Deepak-kumar-kashyap/Banking-System">
   <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -200,7 +200,7 @@ Full Stack Developer • Building AI-Powered Web Applications
 ![Canvas API](https://img.shields.io/badge/Canvas_API-FF5722?style=flat-square)
 
 
-<a href="YOUR_IMAGE_TOOL_LIVE_LINK">
+<a href="https://free-image-converter1.web.app/">
   <img src="https://img.shields.io/badge/Live_Demo-1f6feb?style=for-the-badge"/>
 </a>
 
